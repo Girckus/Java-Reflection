@@ -10,7 +10,7 @@ A project example using Java Reflection API from the Alura courses "Java Reflect
 /controller/method?param1=value1&param2=value2
 
 ## Examples
-/produto/lista
-/produto/filtra?nome=produto
-/produto/filtra?nome=produto&marca=marca 1
+/produto/lista<br/>
+/produto/filtra?nome=produto<br/>
+/produto/filtra?nome=produto&marca=marca 1<br/>
 /produto/filtra?marca=marca 1&nome=produto
